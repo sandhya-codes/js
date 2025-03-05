@@ -50,5 +50,5 @@ console.log(b)
 
 console.log("10.Convert Array to String")
 a=[1,2,3,4,5,6,7,8]
-console.log(a.join(" "))
+console.log(a.join(""))
 
